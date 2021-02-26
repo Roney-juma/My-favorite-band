@@ -33,3 +33,13 @@ ol{
     height: 150px;
     overflow: auto;
 }
+#padding {
+    color: black;
+    position: relative;
+    margin-top: 0;
+    height: 0;
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
