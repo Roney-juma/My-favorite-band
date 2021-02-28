@@ -20,8 +20,7 @@ h2{
     font-style: italic;
 }
 li{
-    color: rgb(29, 17, 202);
-    background-color: rgb(150, 143, 153);
+    color: #ee62f3;
 }
 
 .list-item{
@@ -33,12 +32,12 @@ li{
 ol{
     border: 3px darkorange;
     width: 200px;
-    height: 150px;
+    height: 200px;
     overflow: auto;
 }
 #favorite{
-    background-color: cornsilk;
     font-variant-east-asian: jis78;
+    bottom: 100px;
 }
 #padding {
     color: black;
