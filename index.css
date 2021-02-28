@@ -55,3 +55,8 @@ ol{
 #vi{
     align-content: center;
 }
+a:hover{
+    color: greenyellow;
+    text-decoration: none;
+    text-underline-position:auto;
+}
