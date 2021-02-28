@@ -2,7 +2,8 @@ html{
     background-color: aqua;
 }
 #H{
-    background-color: violet;
+    font-size: xx-large;
+    font-style: oblique;
 }
 h1{
     font-size: xx-large;
@@ -46,6 +47,7 @@ ol{
 #favorite{
     font-variant-east-asian: jis78;
     bottom: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #padding {
     color: black;
