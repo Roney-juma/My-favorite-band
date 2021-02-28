@@ -1,6 +1,9 @@
 html{
     background-color: aqua;
 }
+#H{
+    background-color: violet;
+}
 h1{
     font-size: xx-large;
     font-family: 'Courier New', Courier, monospace;
@@ -28,6 +31,10 @@ li{
 }
 .list-right{
     float: right;
+}
+.list-item{
+    text-align: center;
+    place-content: center;
 }
 ol{
     border: 3px darkorange;
