@@ -4,12 +4,15 @@ html{
 h1{
     font-size: xx-large;
     font-family: 'Courier New', Courier, monospace;
-    width:500px;
-    border: 5px silver;
-    border-radius: 10%;
-    padding: 10px;
-    background-color: green;
     text-align: center;
+}
+#intro{
+    border: 5px silver ridge;
+    border-radius: 10%;
+    padding: 10px 100px 20px 100pxS;
+    background-color: green;
+    width: fit-content;
+    color: rgb(243, 220, 92);
 }
 h2{
     color: palevioletred;
