@@ -28,6 +28,7 @@ li{
 
 .list-item{
     display: inline-block;
+    font-weight: 200;
 }
 .list-right{
     float: right;
