@@ -19,12 +19,12 @@ h1{
     color: rgb(243, 220, 92);
 }
 h2{
-    color: palevioletred;
+    color: rgb(218, 107, 144);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
 }
 li{
-    color: #ee62f3;
+    color: #e97eec;
 }
 
 .list-item{
